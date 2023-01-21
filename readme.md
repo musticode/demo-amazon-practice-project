@@ -7,7 +7,7 @@
 >Product Overview Page opened <br>
 >Product's price, name, cpu type are written to a txt file
 
-****
+
 ### Run Tests
 ```
 mvn clean test
@@ -16,13 +16,13 @@ mvn clean test
 ```
 mvn allure:serve
 ```
-****
+
 #### Dependencies
 - Selenium 4.4.0
 - Allure Report 2.19.0
 - WebDriverManager 5.3.0
 - TestNg 7.6.1
-****
+
 
 #### Implementation Details
 

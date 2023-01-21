@@ -1,0 +1,4 @@
+Price: 42.956
+00TL
+Product Name: Macbook Pro
+Product CPU Type: Apple M1

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Amazon Test Practice Suite">
+    <test name="Amazon Test">
+
+        <parameter name="browserName" value="chrome"/>
+        <classes>
+            <class name="com.amazon.practice.test.amazon.AmazonSearchTest"/>
+        </classes>
+    </test>
+
+</suite>
